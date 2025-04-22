@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "crAsa/HYZlU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dns\\source\\repos\\PasswordManager\\PasswordManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.4\\microsoft.aspnetcore.cryptography.internal.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\9.0.4\\microsoft.aspnetcore.dataprotection.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\9.0.4\\microsoft.aspnetcore.dataprotection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.4\\microsoft.extensions.diagnostics.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.4\\microsoft.extensions.fileproviders.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.4\\microsoft.extensions.hosting.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.4\\microsoft.extensions.logging.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.options\\9.0.4\\microsoft.extensions.options.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\system.security.cryptography.xml\\9.0.4\\system.security.cryptography.xml.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\9.0.4\\microsoft.netcore.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\9.0.4\\microsoft.aspnetcore.app.runtime.win-x86.9.0.4.nupkg.sha512",
+    "C:\\Users\\dns\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\9.0.4\\microsoft.netcore.app.crossgen2.win-x64.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
