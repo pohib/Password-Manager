@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dns\\source\\repos\\PasswordManager\\",
+  "WorkspaceRootPath": "D:\\Password-Manager\\PasswordManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDD6048F-5815-4032-8981-C308D3190543}|PasswordManager.csproj|c:\\users\\dns\\source\\repos\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDD6048F-5815-4032-8981-C308D3190543}|PasswordManager.csproj|d:\\password-manager\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD6048F-5815-4032-8981-C308D3190543}|PasswordManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dns\\source\\repos\\PasswordManager\\Program.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dns\\source\\repos\\PasswordManager\\Program.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAANYBAAAAAAAAAAAUwOkBAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAAAM4BAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:00:00.276Z",
               "EditorCaption": ""

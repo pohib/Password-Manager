@@ -151,7 +151,7 @@ class PasswordManager
     {
         currentPassword = GeneratePassword(settings);
         Console.Clear();
-        Console.WriteLine("Новый пароль успешно сгенерирован!");
+        ShowSuccess("Новый пароль успешно сгенерирован!");
         Console.WriteLine($"Новый пароль: {currentPassword}");
         WaitForEnter();
     }
@@ -165,11 +165,11 @@ class PasswordManager
         Console.WriteLine();
         if (input == currentPassword)
         {
-            Console.WriteLine("✓ Доступ разрешён!");
+            ShowSuccess("✓ Доступ разрешён!");
         }
         else
         {
-            Console.WriteLine("× Неверный пароль!");
+            ShowError("× Неверный пароль!");
         }
         WaitForEnter();
     }
@@ -225,7 +225,7 @@ class PasswordManager
                     if (int.TryParse(Console.ReadLine(), out int length) && length >= 8 && length <= 64)
                     {
                         settings.Length = length;
-                        Console.WriteLine("Длина успешно изменена!");
+                        ShowSuccess("Длина успешно изменена!");
                     }
                     else
                     {
@@ -270,7 +270,7 @@ class PasswordManager
                         ExcludeSimilar = true,
                         ExcludeAmbiguous = false
                     };
-                    Console.WriteLine("Настройки сброшены к значениям по умолчанию");
+                    ShowSuccess("Настройки сброшены к значениям по умолчанию");
                     break;
 
                 case ConsoleKey.D9:
@@ -335,7 +335,7 @@ class PasswordManager
                     break;
                 case ConsoleKey.D2:
                     passwordHistory.Clear();
-                    Console.WriteLine("История очищена");
+                    ShowSuccess("История очищена");
                     break;
                 case ConsoleKey.D3:
                     return;
@@ -460,7 +460,7 @@ class PasswordManager
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Ошибка загрузки: {ex.Message}");
+            ShowError($"Ошибка загрузки: {ex.Message}");
             passwordHistory = new List<SavedPassword>();
         }
     }
@@ -492,7 +492,7 @@ class PasswordManager
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Ошибка сохранения: {ex.Message}");
+            ShowError($"Ошибка сохранения: {ex.Message}");
         }
     }
 
