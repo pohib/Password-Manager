@@ -3,8 +3,116 @@
   "WorkspaceRootPath": "D:\\Password-Manager\\PasswordManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\passwordmanagerwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\multipassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\converters\\declensionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\converters\\passwordmaskconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\multipassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\converters\\entropytocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\converters\\indexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDD6048F-5815-4032-8981-C308D3190543}|PasswordManager.csproj|d:\\password-manager\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD6048F-5815-4032-8981-C308D3190543}|PasswordManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\multipasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\savepassworddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\services\\ierrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\services\\idialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\input.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\passwordmanagerwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\savepassworddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\services\\fileerrorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\models\\savedpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\models\\passwordsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\models\\passworditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\passwordinput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\passwordinput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\numericinput.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\numericinput.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD1C1B-D9B5-4ADE-B52D-D5D0489ED4BB}|..\\PasswordManagerWPF\\PasswordManagerWPF.csproj|d:\\password-manager\\passwordmanagerwpf\\dialogs\\input.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Password-Manager\\PasswordManagerWPF\\obj\\Debug\\net9.0-windows\\SettingsWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +122,476 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 33,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Utilities\\RelayCommand.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Utilities\\RelayCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:12:54.961Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeclensionConverter.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\DeclensionConverter.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Converters\\DeclensionConverter.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\DeclensionConverter.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Converters\\DeclensionConverter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:34:06.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordMaskConverter.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\PasswordMaskConverter.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Converters\\PasswordMaskConverter.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\PasswordMaskConverter.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Converters\\PasswordMaskConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T23:30:11.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordManagerWPF",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T22:43:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MultiPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\MultiPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\MultiPasswordViewModel.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\MultiPasswordViewModel.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\MultiPasswordViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T22:29:44.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IndexConverter.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\IndexConverter.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Converters\\IndexConverter.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\IndexConverter.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Converters\\IndexConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:47:02.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PasswordItem.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Models\\PasswordItem.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Models\\PasswordItem.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Models\\PasswordItem.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Models\\PasswordItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:21:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SettingsWindow.g.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\obj\\Debug\\net9.0-windows\\SettingsWindow.g.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\obj\\Debug\\net9.0-windows\\SettingsWindow.g.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\obj\\Debug\\net9.0-windows\\SettingsWindow.g.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\obj\\Debug\\net9.0-windows\\SettingsWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:48:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\SettingsWindow.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:16:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\SettingsWindow.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\SettingsWindow.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T18:14:05.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileErrorLogger.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\FileErrorLogger.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Services\\FileErrorLogger.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\FileErrorLogger.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Services\\FileErrorLogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:06:45.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IErrorLogger.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\IErrorLogger.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Services\\IErrorLogger.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\IErrorLogger.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Services\\IErrorLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:59:55.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiPassword.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:48:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MultiPassword.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\MultiPassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T16:47:39.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NumericInput.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:47:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NumericInput.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\NumericInput.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T16:46:16.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PasswordInput.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:41:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PasswordInput.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\PasswordInput.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T16:40:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Input.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\Input.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\Input.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\Input.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\Input.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:24:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Input.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\Input.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Dialogs\\Input.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Dialogs\\Input.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Dialogs\\Input.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T16:24:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntropyToColorConverter.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\EntropyToColorConverter.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Converters\\EntropyToColorConverter.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\EntropyToColorConverter.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Converters\\EntropyToColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:20:59.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InverseBoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:20:18.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:15:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDialogService.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\IDialogService.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Services\\IDialogService.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\IDialogService.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Services\\IDialogService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:07:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SavePasswordDialog.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\SavePasswordDialog.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\SavePasswordDialog.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\SavePasswordDialog.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\SavePasswordDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:04:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SavePasswordDialog.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\SavePasswordDialog.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\SavePasswordDialog.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\SavePasswordDialog.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\SavePasswordDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T16:03:50.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:01:47.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\App.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\App.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:52:24.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\App.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\App.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\App.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T15:52:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\MainViewModel.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\MainViewModel.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\MainViewModel.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAAIBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:26:39.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Services\\Services.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Services\\Services.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Services\\Services.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:06:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SavedPassword.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Models\\SavedPassword.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Models\\SavedPassword.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Models\\SavedPassword.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Models\\SavedPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:02:36.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PasswordSettings.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\Models\\PasswordSettings.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\Models\\PasswordSettings.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\Models\\PasswordSettings.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\Models\\PasswordSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T15:00:53.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PasswordManagerWPF.csproj",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\PasswordManagerWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T14:58:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\MainWindow.xaml",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T14:57:54.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Password-Manager\\PasswordManagerWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\PasswordManagerWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Password-Manager\\PasswordManagerWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\PasswordManagerWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:57:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Password-Manager\\PasswordManager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Password-Manager\\PasswordManager\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAPMBAAAAAAAAAAAAAM4BAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAAAGwBAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T23:00:00.276Z",
               "EditorCaption": ""

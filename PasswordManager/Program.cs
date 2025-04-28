@@ -9,16 +9,6 @@ class PasswordManager
     private static string? currentPassword;
     private static List<SavedPassword> passwordHistory = new List<SavedPassword>();
 
-    public static string GenerateAesKey()
-    {
-        using (var aes = Aes.Create())
-        {
-            aes.KeySize = 256;
-            aes.GenerateKey();
-            return Convert.ToBase64String(aes.Key);
-        }
-    }
-
     private static PasswordSettings settings = new PasswordSettings
     {
         Length = 12,
@@ -352,7 +342,7 @@ class PasswordManager
     {
         Console.Clear();
         Console.Write("Введите имя/описание для пароля: ");
-        string name = Console.ReadLine();
+        string? name = Console.ReadLine();
 
         passwordHistory.Add(new SavedPassword
         {
@@ -366,17 +356,49 @@ class PasswordManager
         WaitForEnter();
     }
 
+    private static void SavePasswords(int value, string[] passwords)
+    {
+        int[] names = Enumerable.Range(1, 21).ToArray();
+
+        for (int i = 0; i < value; i++)
+        {
+            passwordHistory.Add(new SavedPassword
+            {
+                Name = "password" + names[i].ToString(),
+                Password = passwords[i],
+                Created = DateTime.Now
+            });
+        }
+
+        SavePasswordHistory();
+    }
+
     private static void GenerateMultiplePasswords()
     {
         Console.Clear();
         Console.Write("Сколько паролей сгенерировать? (1-20): ");
+        int count = Convert.ToInt32(Console.ReadLine());
+        string[] passwords = new string[count];
 
-        if (int.TryParse(Console.ReadLine(), out int count) && count > 0 && count <= 20)
+        if (count > 0 && count <= 20)
         {
             Console.WriteLine("\nСгенерированные пароли:");
             for (int i = 0; i < count; i++)
             {
-                Console.WriteLine($"{i + 1}. {GeneratePassword(settings)}");
+                Console.WriteLine($"{i + 1}. {passwords[i] = GeneratePassword(settings)}");
+            }
+            Console.Write("\nСохранить? (1 - да, 2 - нет): ");
+            switch (Console.ReadKey().Key)
+            {
+                case ConsoleKey.D1:
+                    SavePasswords(count, passwords);
+                    ShowSuccess("\nПароли успешно сохранены!");
+                    break;
+                case ConsoleKey.D2:
+                    return;
+                default:
+                    ShowError("\nНекорректная команда");
+                    break;
             }
         }
         else
@@ -518,5 +540,3 @@ class PasswordManager
         Thread.Sleep(1500);
     }
 }
-
-

@@ -1,0 +1,17 @@
+﻿<Application x:Class="PasswordManagerWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PasswordManagerWPF"
+             xmlns:converters="clr-namespace:PasswordManagerWPF.Converters"
+             Startup="OnStartup">
+    <Application.Resources>
+        <ResourceDictionary>
+            <converters:IndexConverter x:Key="IndexConverter"/>
+            <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+            <converters:InverseBoolToVisibilityConverter x:Key="InverseBoolToVisibilityConverter"/>
+            <converters:EntropyToColorConverter x:Key="EntropyToColorConverter"/>
+            <converters:PasswordMaskConverter x:Key="PasswordMaskConverter"/>
+            <converters:DeclensionConverter x:Key="DeclensionConverter"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
