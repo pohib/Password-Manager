@@ -41,7 +41,7 @@
 git clone https://github.com/pohib/Password-Manager.git
 cd Password-Manager
 ```
-2. Запустите PasswordManager.csproj из папки Password-Manager
+2. Запустите PasswordManager.csproj из папки Password-Manager либо PasswordManagerWPF.csproj
 3. Соберите программу (Ctrl + F5)
 
 ## Безопасность
